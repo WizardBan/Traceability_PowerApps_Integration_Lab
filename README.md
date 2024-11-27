@@ -7,6 +7,7 @@ This repository contains a PowerApps solution designed for hands-on lab (HOL) ac
 3. In Traceability, add and enable the following activities:
      - Activity Type: Production, Activity Code: Consumption, Company: *
      - Activity Type: Production, Activity Code: FullRemove, Company: *
+4. Demo video: https://www.yammer.com/dynamicsaxfeedbackprograms/#/files/2248259944448
 
 ## Disclaimer
 This PowerApps solution is intended solely for Hands-on Lab (HOL) purposes and is not recommended for use in a production environment. This solution is provided "as-is" and is not designed or supported for actual business or operational use.
